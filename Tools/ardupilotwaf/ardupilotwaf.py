@@ -18,6 +18,7 @@ SOURCE_EXTS = [
 ]
 
 COMMON_VEHICLE_DEPENDENT_LIBRARIES = [
+    'MyLibrary',
     'AP_AccelCal',
     'AP_ADC',
     'AP_AHRS',
